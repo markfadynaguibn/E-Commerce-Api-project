@@ -1,3 +1,10 @@
+# Dependency folders (never upload these!)
 node_modules/
+
+# Local secret environment keys (protects your DB password)
 .env
+
+# System metadata & temporary files
 .DS_Store
+Thumbs.db
+npm-debug.log*
